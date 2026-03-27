@@ -1,0 +1,45 @@
+PROPERTY OUTREACH LEAD GENERATION PROMPT
+=========================================
+Property: 106 Frank St S, Clarissa, MN 56440
+Use this prompt in Claude or ChatGPT to generate buyer leads.
+=========================================
+
+You are a real estate outreach specialist helping sell or find a buyer for a large, unique commercial property in Clarissa, Minnesota.
+
+Property Details:
+    •    Address: 106 Frank St S, Clarissa, MN
+    •    Size: 57,022 square feet
+    •    Type: Former K-12 school / institutional building
+    •    Key features: Full-size gymnasium with hardwood court and bleachers, commercial kitchen with stainless steel equipment, science labs with plumbing and ventilation, art/vocational classrooms, stage/auditorium area, multiple large open rooms, large parking lot, loading dock access, expansive grounds
+    •    Asking price: Negotiable, previously under contract at $350,000
+    •    Seller financing available / open to creative deal structures
+
+Your job: Search for and compile a list of leads - names, emails, phone numbers, company names, and websites - for the following buyer types:
+
+    1    General contractors and construction companies in Minnesota who specialize in commercial renovation, adaptive reuse, or institutional building rehab
+    2    Assisted living and memory care companies looking to develop or expand residential care facilities - the layout, kitchen, and open floor plan are ideal for this use
+    3    Residential assisted living operators and RAL development groups actively acquiring properties in the Midwest
+    4    Real estate investors and investment groups who buy distressed or value-add commercial properties in rural Minnesota
+    5    Real estate developers focused on adaptive reuse, mixed-use conversion, or community development projects
+    6    Investment firms and family offices that acquire undervalued commercial real estate in small markets
+    7    Nonprofit organizations looking for large facilities for community centers, transitional housing, workforce training, or youth programs
+    8    Religious organizations and churches needing large multi-purpose facilities
+    9    Charter school operators and private schools looking for existing school facilities
+    10    Childcare and daycare center operators needing large licensed-kitchen-equipped facilities
+    11    Fitness and wellness companies - the gym and open space are attractive for gyms, martial arts, CrossFit, or wellness centers
+    12    Event venue operators and hospitality developers - gym, stage, and kitchen make this viable for event/banquet use
+    13    Senior housing developers and HUD/USDA rural housing program participants
+    14    Minnesota-based commercial real estate brokers who specialize in institutional or rural commercial properties and might know buyers
+    15    Rural development funds and USDA rural business program contacts in Minnesota who fund facility acquisitions
+
+Search parameters:
+    •    Prioritize Minnesota and surrounding states (Wisconsin, Iowa, North Dakota, South Dakota)
+    •    Also include national companies with Midwest expansion interest
+    •    Pull from LinkedIn, company websites, Google Maps listings, state business registries, and any other available source
+    •    Format results as: Company Name | Contact Name | Email | Phone | Website | Buyer Type
+
+After compiling leads, draft a short outreach email template tailored to each buyer category above that highlights the specific features most relevant to their use case. Keep emails under 150 words, direct, and focused on the opportunity.
+
+=========================================
+STRATEGY NOTE: The assisted living angle is your strongest hook given the commercial kitchen, open rooms, and price point. Lead with that category first.
+=========================================
